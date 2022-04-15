@@ -6,8 +6,8 @@
   <img align="center" src="https://miro.medium.com/max/1280/1*haKSsgOaPd_oON5IlyAkIg.png">
 </p>
 
-### Medium Article
-In this [Medium Article](https://towardsdatascience.com/supply-chain-optimization-with-python-23ae9b28fd0b), we will present a simple methodology using Linear Programming for Supply Chain Optimization considering
+### Article
+In this [Article](https://www.samirsaci.com/supply-chain-optimization-with-python/), we will present a simple methodology using Linear Programming for Supply Chain Optimization considering
 - Fixed production costs of your facilities ($/Month)
 - Variable production costs per unit produced ($/Unit)
 - Shipping costs ($)

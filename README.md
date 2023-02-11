@@ -13,6 +13,12 @@ In this [Article](https://www.samirsaci.com/supply-chain-optimization-with-pytho
 - Shipping costs ($)
 - Customer’s demand (Units)
 
+### Youtube Video
+Click on the image below to access a full tutorial to understand the concept behind this solution
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=gF9ds3CH3N4"><img src=https://i.ytimg.com/an_webp/gF9ds3CH3N4/mqdefault_6s.webp?du=3000&sqp=CJCznp8G&rs=AOn4CLAeCt7MhEf1GfKwsMM2op2vjDwdlQ" alt="Video Link"></a>
+</div>
+
 
 #### Problem Statement
 As the Head of Supply Chain Management of an international manufacturing company, you want to redefine the Supply Chain 

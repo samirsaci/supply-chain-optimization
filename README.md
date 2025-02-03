@@ -16,7 +16,7 @@ In this [Article](https://towardsdatascience.com/supply-chain-optimization-with-
 ### Youtube Video
 Click on the image below to access a full tutorial to understand the concept behind this solution
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=gF9ds3CH3N4"><img src="https://i.ytimg.com/an_webp/gF9ds3CH3N4/mqdefault_6s.webp?du=3000&sqp=CJCznp8G&rs=AOn4CLAeCt7MhEf1GfKwsMM2op2vjDwdlQ" alt="Video Link"></a>
+  <a href="https://www.youtube.com/watch?v=gF9ds3CH3N4"><img src="https://i.ytimg.com/an_webp/gF9ds3CH3N4/mqdefault_6s.webp?du=3000&sqp=CJKPg70G&rs=AOn4CLBm-0RLB16DvANhOLIja6E8qrJOhQ" alt="Video Link"></a>
 </div>
 
 

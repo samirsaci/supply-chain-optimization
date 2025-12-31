@@ -15,13 +15,13 @@ In this [Article](https://www.samirsaci.com/supply-chain-optimization-with-pytho
 ### Youtube Video
 Click on the image below to access a full tutorial to understand the concept behind this solution
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=gF9ds3CH3N4"><img src="https://i.ytimg.com/an_webp/gF9ds3CH3N4/mqdefault_6s.webp?du=3000&sqp=CJKPg70G&rs=AOn4CLBm-0RLB16DvANhOLIja6E8qrJOhQ" alt="Video Link"></a>
+  <a href="https://www.youtube.com/watch?v=gF9ds3CH3N4"><img src="https://i.ytimg.com/an_webp/gF9ds3CH3N4/mqdefault_6s.webp?du=3000&sqp=CPTJ1coG&rs=AOn4CLB83fAnEhe5bh9Hg12_29jNCkYC7Q" alt="Video Link"></a>
 </div>
 
 
 #### Problem Statement
 As the Head of Supply Chain Management of an international manufacturing company, you want to redefine the Supply Chain 
-Network for the next 5 years, considering the recent increase in shipping costs and the forecasts of future demand.
+Network for the next 5 years, taking into account the recent increase in shipping costs and demand forecasts.
 <p align="center">
   <img align="center" src="https://miro.medium.com/max/700/1*rtP7otnvgY2nT-ONqtAM6A.png">
 </p>

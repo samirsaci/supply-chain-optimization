@@ -23,7 +23,7 @@ Click on the image below to access a full tutorial to understand the concept beh
 As the Head of Supply Chain Management of an international manufacturing company, you want to redefine the Supply Chain 
 Network for the next 5 years, taking into account the recent increase in shipping costs and demand forecasts.
 <p align="center">
-  <a href="https://www.samirsaci.com/supply-chain-optimization-with-python/"><img align="center" src="https://miro.medium.com/max/700/1*rtP7otnvgY2nT-ONqtAM6A.png"></a>
+  <a href="https://www.samirsaci.com/supply-chain-optimization-with-python/"><img align="center" src="https://www.samirsaci.com/content/images/2025/12/image-767.png"></a>
 </p>
 
 

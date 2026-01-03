@@ -18,11 +18,11 @@ from pulp import (
 
 def load_data():
     """Load all input data from Excel files."""
-    manvar_costs = pd.read_excel("variable_costs.xlsx", index_col=0)
-    freight_costs = pd.read_excel("freight_costs.xlsx", index_col=0)
-    fixed_costs = pd.read_excel("fixed_cost.xlsx", index_col=0)
-    capacity = pd.read_excel("capacity.xlsx", index_col=0)
-    demand = pd.read_excel("demand.xlsx", index_col=0)
+    manvar_costs = pd.read_excel("data/variable_costs.xlsx", index_col=0)
+    freight_costs = pd.read_excel("data/freight_costs.xlsx", index_col=0)
+    fixed_costs = pd.read_excel("data/fixed_cost.xlsx", index_col=0)
+    capacity = pd.read_excel("data/capacity.xlsx", index_col=0)
+    demand = pd.read_excel("data/demand.xlsx", index_col=0)
 
     # Calculate variable costs (freight + manufacturing)
     var_cost = freight_costs / 1000 + manvar_costs
